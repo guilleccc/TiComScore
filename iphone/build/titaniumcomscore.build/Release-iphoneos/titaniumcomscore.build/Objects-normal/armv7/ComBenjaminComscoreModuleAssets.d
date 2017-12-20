@@ -1,3 +1,4 @@
 dependencies: \
-  /Users/bpeters/Documents/Appcelerator_Studio_Workspace/titaniumcomscore/iphone/Classes/ComBenjaminComscoreModuleAssets.m \
-  /Users/bpeters/Documents/Appcelerator_Studio_Workspace/titaniumcomscore/iphone/Classes/ComBenjaminComscoreModuleAssets.h
+  /Users/gconstantino/Workspaces/Appcelerator/TiComScore/iphone/ComBenjaminComscore_Prefix.pch \
+  /Users/gconstantino/Workspaces/Appcelerator/TiComScore/iphone/Classes/ComBenjaminComscoreModuleAssets.m \
+  /Users/gconstantino/Workspaces/Appcelerator/TiComScore/iphone/Classes/ComBenjaminComscoreModuleAssets.h

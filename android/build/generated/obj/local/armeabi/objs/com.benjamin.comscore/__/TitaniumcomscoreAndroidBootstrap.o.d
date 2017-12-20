@@ -1,162 +1,310 @@
-/Users/bpeters/Documents/Appcelerator_Studio_Workspace/titaniumcomscore-android/android/build/generated/obj/local/armeabi/objs/com.benjamin.comscore/__/TitaniumcomscoreAndroidBootstrap.o: \
+/Users/gconstantino/Workspaces/Appcelerator/TiComScore/android/build/generated/obj/local/armeabi/objs/com.benjamin.comscore/__/TitaniumcomscoreAndroidBootstrap.o: \
  jni/../TitaniumcomscoreAndroidBootstrap.cpp \
- /Users/bpeters/Library/Application\ Support/Titanium/mobilesdk/osx/6.0.1.GA/android/native/include/v8.h \
- /Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/../../android/support/include/stdint.h \
- /Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/../../android/support/include/stdio.h \
- /Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/../../android/support/include/wchar.h \
- /Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/../../android/support/include/wctype.h \
- /Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/../../android/support/include/xlocale.h \
- /Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/utility \
- /Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/__config \
- /Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/__tuple \
- /Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/cstddef \
- /Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/type_traits \
- /Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/vector \
- /Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/__bit_reference \
- /Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/algorithm \
- /Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/initializer_list \
- /Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/cstring \
- /Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/../../android/support/include/string.h \
- /Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/memory \
- /Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/typeinfo \
- /Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/exception \
- /Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/cstdint \
- /Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/new \
- /Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/limits \
- /Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/iterator \
- /Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/__functional_base \
- /Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/iosfwd \
- /Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/tuple \
- /Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/cassert \
- /Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/atomic \
- /Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/climits \
- /Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/stdexcept \
- /Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/__split_buffer \
- /Users/bpeters/Library/Application\ Support/Titanium/mobilesdk/osx/6.0.1.GA/android/native/include/v8-version.h \
- /Users/bpeters/Library/Application\ Support/Titanium/mobilesdk/osx/6.0.1.GA/android/native/include/v8config.h \
- /Users/bpeters/Library/Application\ Support/Titanium/mobilesdk/osx/6.0.1.GA/android/native/include/AndroidUtil.h \
- /Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/../../android/support/include/stdlib.h \
- /Users/bpeters/Library/Application\ Support/Titanium/mobilesdk/osx/6.0.1.GA/android/native/include/JNIUtil.h \
- /Users/bpeters/Library/Application\ Support/Titanium/mobilesdk/osx/6.0.1.GA/android/native/include/AndroidUtil.h \
- /Users/bpeters/Library/Application\ Support/Titanium/mobilesdk/osx/6.0.1.GA/android/native/include/JSException.h \
- /Users/bpeters/Library/Application\ Support/Titanium/mobilesdk/osx/6.0.1.GA/android/native/include/KrollBindings.h \
- /Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/map \
- /Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/__tree \
- /Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/functional \
- /Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/string \
- /Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/cstdio \
- /Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/cwchar \
- /Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/cwctype \
- /Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/cctype \
- /Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/../../android/support/include/ctype.h \
- /Users/bpeters/Library/Application\ Support/Titanium/mobilesdk/osx/6.0.1.GA/android/native/include/V8Util.h \
+ /Users/gconstantino/Library/Application\ Support/Titanium/mobilesdk/osx/5.3.1.GA/android/native/include/v8.h \
+ /Users/gconstantino/Library/Application\ Support/Titanium/mobilesdk/osx/5.3.1.GA/android/native/include/v8stdint.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stddef.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stdio.h \
+ /Users/gconstantino/Library/Application\ Support/Titanium/mobilesdk/osx/5.3.1.GA/android/native/include/AndroidUtil.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stdlib.h \
+ /Users/gconstantino/Library/Application\ Support/Titanium/mobilesdk/osx/5.3.1.GA/android/native/include/KrollBindings.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/map \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_prolog.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/debug/_debug.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_map.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_tree.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_algobase.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_cstddef.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_cstring.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/using/cstring \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/climits \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/limits.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_cstdlib.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_cmath.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/math.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_pair.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/type_traits.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/type_manips.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_move_construct_fwk.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_iterator_base.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_ptrs_specialize.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_algobase.c \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_function_base.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_iterator.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_alloc.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_new.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/../../gabi++/include/new \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/cstddef \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/../../gabi++/include/cstddef \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/exception \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/../../gabi++/include/exception \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/../../gabi++/include/gabixx_config.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_cstdio.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_construct.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_alloc.c \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_tree.c \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_relops_cont.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/string \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_string.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_string_fwd.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_iosfwd.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/char_traits.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_cwchar.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_mbstate_t.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_uninitialized.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_string_base.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_string_npos.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_string_operators.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_string.c \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_ctraits_fns.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_function.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_function_adaptors.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_range_errors.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_string_hash.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_hash_fun.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_string_io.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_ostream.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_ios.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_ios_base.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_stdexcept_base.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_exception.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_locale.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_threads.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/pthread.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_threads.c \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_ctime.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_facets_fwd.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_ctype.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/c_locale.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_numpunct.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_ios.c \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_streambuf.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_streambuf.c \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_ostreambuf_iterator.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_ostream.c \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_num_put.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_iostream_string.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_num_put.c \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_limits.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/cfloat \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/float.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_limits.c \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_istream.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_istreambuf_iterator.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_istream.c \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_num_get.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_num_get.c \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_string_io.c \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/vector \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_vector.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_vector.c \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_bvector.h \
+ /Users/gconstantino/Library/Application\ Support/Titanium/mobilesdk/osx/5.3.1.GA/android/native/include/V8Util.h \
  jni/../BootstrapJS.cpp jni/../KrollGeneratedBindings.cpp \
  jni/com.benjamin.comscore.ExampleProxy.h \
- /Users/bpeters/Library/Application\ Support/Titanium/mobilesdk/osx/6.0.1.GA/android/native/include/Proxy.h \
- /Users/bpeters/Library/Application\ Support/Titanium/mobilesdk/osx/6.0.1.GA/android/native/include/JavaObject.h \
- /Users/bpeters/Library/Application\ Support/Titanium/mobilesdk/osx/6.0.1.GA/android/native/include/EventEmitter.h \
- /Users/bpeters/Library/Application\ Support/Titanium/mobilesdk/osx/6.0.1.GA/android/native/include/NativeObject.h \
+ /Users/gconstantino/Library/Application\ Support/Titanium/mobilesdk/osx/5.3.1.GA/android/native/include/Proxy.h \
+ /Users/gconstantino/Library/Application\ Support/Titanium/mobilesdk/osx/5.3.1.GA/android/native/include/JavaObject.h \
+ /Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/assert.h \
+ /Users/gconstantino/Library/Application\ Support/Titanium/mobilesdk/osx/5.3.1.GA/android/native/include/EventEmitter.h \
+ /Users/gconstantino/Library/Application\ Support/Titanium/mobilesdk/osx/5.3.1.GA/android/native/include/NativeObject.h \
  jni/com.benjamin.comscore.TitaniumcomscoreAndroidModule.h
 
-/Users/bpeters/Library/Application\ Support/Titanium/mobilesdk/osx/6.0.1.GA/android/native/include/v8.h:
+/Users/gconstantino/Library/Application\ Support/Titanium/mobilesdk/osx/5.3.1.GA/android/native/include/v8.h:
 
-/Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/../../android/support/include/stdint.h:
+/Users/gconstantino/Library/Application\ Support/Titanium/mobilesdk/osx/5.3.1.GA/android/native/include/v8stdint.h:
 
-/Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/../../android/support/include/stdio.h:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stddef.h:
 
-/Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/../../android/support/include/wchar.h:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stdio.h:
 
-/Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/../../android/support/include/wctype.h:
+/Users/gconstantino/Library/Application\ Support/Titanium/mobilesdk/osx/5.3.1.GA/android/native/include/AndroidUtil.h:
 
-/Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/../../android/support/include/xlocale.h:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stdlib.h:
 
-/Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/utility:
+/Users/gconstantino/Library/Application\ Support/Titanium/mobilesdk/osx/5.3.1.GA/android/native/include/KrollBindings.h:
 
-/Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/__config:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/map:
 
-/Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/__tuple:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_prolog.h:
 
-/Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/cstddef:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/debug/_debug.h:
 
-/Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/type_traits:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_map.h:
 
-/Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/vector:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_tree.h:
 
-/Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/__bit_reference:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_algobase.h:
 
-/Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/algorithm:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_cstddef.h:
 
-/Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/initializer_list:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_cstring.h:
 
-/Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/cstring:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/using/cstring:
 
-/Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/../../android/support/include/string.h:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/climits:
 
-/Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/memory:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/limits.h:
 
-/Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/typeinfo:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_cstdlib.h:
 
-/Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/exception:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_cmath.h:
 
-/Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/cstdint:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/math.h:
 
-/Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/new:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_pair.h:
 
-/Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/limits:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/type_traits.h:
 
-/Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/iterator:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/type_manips.h:
 
-/Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/__functional_base:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_move_construct_fwk.h:
 
-/Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/iosfwd:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_iterator_base.h:
 
-/Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/tuple:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_ptrs_specialize.h:
 
-/Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/cassert:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_algobase.c:
 
-/Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/atomic:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_function_base.h:
 
-/Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/climits:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_iterator.h:
 
-/Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/stdexcept:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_alloc.h:
 
-/Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/__split_buffer:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_new.h:
 
-/Users/bpeters/Library/Application\ Support/Titanium/mobilesdk/osx/6.0.1.GA/android/native/include/v8-version.h:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/../../gabi++/include/new:
 
-/Users/bpeters/Library/Application\ Support/Titanium/mobilesdk/osx/6.0.1.GA/android/native/include/v8config.h:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/cstddef:
 
-/Users/bpeters/Library/Application\ Support/Titanium/mobilesdk/osx/6.0.1.GA/android/native/include/AndroidUtil.h:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/../../gabi++/include/cstddef:
 
-/Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/../../android/support/include/stdlib.h:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/exception:
 
-/Users/bpeters/Library/Application\ Support/Titanium/mobilesdk/osx/6.0.1.GA/android/native/include/JNIUtil.h:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/../../gabi++/include/exception:
 
-/Users/bpeters/Library/Application\ Support/Titanium/mobilesdk/osx/6.0.1.GA/android/native/include/AndroidUtil.h:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/../../gabi++/include/gabixx_config.h:
 
-/Users/bpeters/Library/Application\ Support/Titanium/mobilesdk/osx/6.0.1.GA/android/native/include/JSException.h:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_cstdio.h:
 
-/Users/bpeters/Library/Application\ Support/Titanium/mobilesdk/osx/6.0.1.GA/android/native/include/KrollBindings.h:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_construct.h:
 
-/Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/map:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_alloc.c:
 
-/Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/__tree:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_tree.c:
 
-/Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/functional:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_relops_cont.h:
 
-/Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/string:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/string:
 
-/Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/cstdio:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_string.h:
 
-/Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/cwchar:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_string_fwd.h:
 
-/Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/cwctype:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_iosfwd.h:
 
-/Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/libcxx/include/cctype:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/char_traits.h:
 
-/Users/bpeters/android-ndk-r12b/sources/cxx-stl/llvm-libc++/../../android/support/include/ctype.h:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_cwchar.h:
 
-/Users/bpeters/Library/Application\ Support/Titanium/mobilesdk/osx/6.0.1.GA/android/native/include/V8Util.h:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_mbstate_t.h:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_uninitialized.h:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_string_base.h:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_string_npos.h:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_string_operators.h:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_string.c:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_ctraits_fns.h:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_function.h:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_function_adaptors.h:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_range_errors.h:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_string_hash.h:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_hash_fun.h:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_string_io.h:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_ostream.h:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_ios.h:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_ios_base.h:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_stdexcept_base.h:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_exception.h:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_locale.h:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_threads.h:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/pthread.h:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_threads.c:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_ctime.h:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_facets_fwd.h:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_ctype.h:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/c_locale.h:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_numpunct.h:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_ios.c:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_streambuf.h:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_streambuf.c:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_ostreambuf_iterator.h:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_ostream.c:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_num_put.h:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_iostream_string.h:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_num_put.c:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_limits.h:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/cfloat:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/float.h:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_limits.c:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_istream.h:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_istreambuf_iterator.h:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_istream.c:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_num_get.h:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_num_get.c:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_string_io.c:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/vector:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_vector.h:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_vector.c:
+
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/stl/_bvector.h:
+
+/Users/gconstantino/Library/Application\ Support/Titanium/mobilesdk/osx/5.3.1.GA/android/native/include/V8Util.h:
 
 jni/../BootstrapJS.cpp:
 
@@ -164,12 +312,14 @@ jni/../KrollGeneratedBindings.cpp:
 
 jni/com.benjamin.comscore.ExampleProxy.h:
 
-/Users/bpeters/Library/Application\ Support/Titanium/mobilesdk/osx/6.0.1.GA/android/native/include/Proxy.h:
+/Users/gconstantino/Library/Application\ Support/Titanium/mobilesdk/osx/5.3.1.GA/android/native/include/Proxy.h:
 
-/Users/bpeters/Library/Application\ Support/Titanium/mobilesdk/osx/6.0.1.GA/android/native/include/JavaObject.h:
+/Users/gconstantino/Library/Application\ Support/Titanium/mobilesdk/osx/5.3.1.GA/android/native/include/JavaObject.h:
 
-/Users/bpeters/Library/Application\ Support/Titanium/mobilesdk/osx/6.0.1.GA/android/native/include/EventEmitter.h:
+/Users/gconstantino/Library/android-ndk-r12b/sources/cxx-stl/stlport/stlport/assert.h:
 
-/Users/bpeters/Library/Application\ Support/Titanium/mobilesdk/osx/6.0.1.GA/android/native/include/NativeObject.h:
+/Users/gconstantino/Library/Application\ Support/Titanium/mobilesdk/osx/5.3.1.GA/android/native/include/EventEmitter.h:
+
+/Users/gconstantino/Library/Application\ Support/Titanium/mobilesdk/osx/5.3.1.GA/android/native/include/NativeObject.h:
 
 jni/com.benjamin.comscore.TitaniumcomscoreAndroidModule.h:
